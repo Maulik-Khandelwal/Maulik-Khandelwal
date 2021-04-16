@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align="center" id="top"> 
+
+### Hi there, I'm Maulik Khandelwal. 👋
+
+ ![Maulik's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=GajjarMiten&show_icons=true&hide_border=true)
 
 <!--
 **Maulik-Khandelwal/Maulik-Khandelwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
